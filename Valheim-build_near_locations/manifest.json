@@ -1,0 +1,26 @@
+{
+  "name": "Build_Near_Locations",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/LottieVixen/Valheim-Build_Near_Locations",
+  "description": "Allow building near start and other locations!",
+  "dependencies": [ "denikson-BepInExPack_Valheim-5.4.701" ],
+  "ManifestVersion": 2,
+  "AuthorName": "LottieVixen",
+  "Name": "LottieVixen-Build_Near_Locations",
+  "DisplayName": "Build_Near_Locations",
+  "Version": "1.0.0",
+  "Licence": "gpl-3.0",
+  "WebsiteURL": "https://github.com/LottieVixen/Valheim-Build_Near_Locations",
+  "Description": "Allow building near start and other locations!",
+  "GameVersion": "N/A",
+  "Dependencies": [],
+  "OptionalDependencies": [],
+  "Incompatibilities": [],
+  "NetworkMode": "both",
+  "PackageType": "mod",
+  "InstallMode": "managed",
+  "Loaders": [
+    "bepinex"
+  ],
+  "ExtraData": {}
+}
